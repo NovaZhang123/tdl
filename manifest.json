@@ -2,7 +2,7 @@
   "name": "工作TDL - 每日待办",
   "short_name": "工作TDL",
   "description": "儿童口语启蒙老师每日工作待办工具",
-  "start_url": "./tdl.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#f0f4f8",
   "theme_color": "#27ae60",
@@ -32,4 +32,3 @@
     }
   ]
 }
-
