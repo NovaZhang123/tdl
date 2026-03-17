@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#27ae60"/>
+      <stop offset="100%" style="stop-color:#1e8449"/>
+    </linearGradient>
+  </defs>
+  <rect width="192" height="192" rx="35" fill="url(#bg)"/>
+  <text x="96" y="90.24" font-family="Arial,sans-serif" font-weight="bold" font-size="61" fill="white" text-anchor="middle" dominant-baseline="middle">TDL</text>
+  <text x="96" y="138.24" font-family="Arial,sans-serif" font-size="25" fill="rgba(255,255,255,0.9)" text-anchor="middle" dominant-baseline="middle">每日待办</text>
+</svg>
